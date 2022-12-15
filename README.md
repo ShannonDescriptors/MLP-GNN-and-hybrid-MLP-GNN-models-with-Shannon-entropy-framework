@@ -1,4 +1,4 @@
-# MLP_GNN_ensemble
+# MLP-GNN ensemble
 
 Harnessing Shannon entropy of molecular symbols in deep neural networks to enhance prediction accuracy
 ------------------------------------------------------------------------------------------------------
