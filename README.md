@@ -6,7 +6,7 @@ This repository holds the codes pertaining to Fig. 3 of the article 'Harnessing 
 
 Description
 -----------
-Hybrid of MLP and GNN models are compared in different architectural variations: (i) only MLP, (ii) 2D GNN, (iii) 3D GNN, (iv) MLP+2D GNN and (v) MLP+3D GNN. The specific objectives of the codes are described in the Notes section below. The basic dataset has been provided in the repository in the form of a .csv file.
+Hybrid of MLP and GNN models are compared in different architectural variations: (i) only MLP, (ii) 2D GNN, (iii) 3D GNN, (iv) MLP+2D GNN and (v) MLP+3D GNN. In this case, we model the partition coefficient (logP) values of ligand molecules that could bind to the p53-binding protein Mdm2. The specific objectives of the scripts are described in the Notes section below. The basic dataset has been provided in the repository in the form of a .csv file.
 
 Usage
 -----
