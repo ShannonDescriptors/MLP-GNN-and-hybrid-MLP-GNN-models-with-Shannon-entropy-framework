@@ -10,9 +10,9 @@ Hybrid of MLP and GNN models are compared in different architectural variations:
 
 Usage
 -----
-Download or make a clone of the repository
-Make a new conda environment using the environment file 'mlp_gnn.yml'
-Run the GNN or MLP-GNN hybrid python files directly using a python IDE or from command line
+1. Download or make a clone of the repository
+2. Make a new conda environment using the environment file 'mlp_gnn.yml'
+3. Run the GNN or MLP-GNN hybrid python files directly using a python IDE or from command line
 
 Example: python 3D_GNN_hybrid_mod_logp_with_MW_with_partial_shannon_in_MLP_-2_-4_layers.py
 
